@@ -66,6 +66,69 @@ function chillHop(){
             color:['#FE4A36','#011D58'],
             active:false
         },
+        {
+            name : "Ocean Patio",
+            cover: "https://chillhop.com/wp-content/uploads/2020/04/35a95878437b99e3384b023504b89403ae169707-1024x1024.jpg",
+            artist: "Philanthrope, Dayle",
+            audio : "https://mp3.chillhop.com/serve.php/?mp3=8036",
+            id: uuidv4(),
+            color:['#D8381F','#22353D'],
+            active:false
+        },
+        {
+            name : "Silience",
+            cover: "https://chillhop.com/wp-content/uploads/2020/08/7ba352cafecae63aa3f09a52e125ea615d2c1f9b-1024x1024.jpg",
+            artist: "Toonorth",
+            audio : "https://mp3.chillhop.com/serve.php/?mp3=8425",
+            id: uuidv4(),
+            color:['#976D2C','#C6EDFE'],
+            active:false
+        },
+        {
+            name : "Toft",
+            cover: "https://chillhop.com/wp-content/uploads/2020/07/858b533ba20ff95bf5b401089b195d1a8cb43870-1024x1024.jpg",
+            artist: "Felty, Ezzy",
+            audio : "https://mp3.chillhop.com/serve.php/?mp3=9312",
+            id: uuidv4(),
+            color:['#196EAF','#E6B743'],
+            active:false
+        },
+        {
+            name : "Happy Place",
+            cover: "https://chillhop.com/wp-content/uploads/2020/08/63d2d2cdabbc5df023603b5f47b2fb97963cb537-1024x1024.jpg",
+            artist: "Philanthrope, Sitting Duck, squeeda",
+            audio : "https://mp3.chillhop.com/serve.php/?mp3=9781",
+            id: uuidv4(),
+            color:['#6CCABC','#5A6344'],
+            active:false
+        },
+        {
+            name : "Flushing the Stairs",
+            cover: "https://chillhop.com/wp-content/uploads/2020/09/6defa6c89a6902fdd84bccd720c2b8fd29c40990-1024x1024.jpg",
+            artist: "Leavv",
+            audio : "https://mp3.chillhop.com/serve.php/?mp3=9917",
+            id: uuidv4(),
+            color:['#75B35E','#0B424E'],
+            active:false
+        },
+        {
+            name : "Roses n Flames",
+            cover: "https://chillhop.com/wp-content/uploads/2021/02/d12927eedcc2f5afba2ab049a4a1ea46c2266ae3-1024x1024.jpg",
+            artist: "C Y G N",
+            audio : "https://mp3.chillhop.com/serve.php/?mp3=14985",
+            id: uuidv4(),
+            color:['#8CBEE8','#31264E'],
+            active:false
+        },
+        {
+            name : "Cascade",
+            cover: "https://chillhop.com/wp-content/uploads/2021/02/70a56749b8b89815fa75446030c6ba57d2c34de7-1024x1024.jpg",
+            artist: "Knowmadic",
+            audio : "https://mp3.chillhop.com/serve.php/?mp3=13092",
+            id: uuidv4(),
+            color:['#8CDEAE','#444D59'],
+            active:false
+        },
     ];
 }
 
