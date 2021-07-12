@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React-Player
+A simple audio player made with react, take a look @ [react-player](https://trusting-murdock-6e7658.netlify.app/)
+All the images and sounds belong to ChillHop and the respective artists.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
